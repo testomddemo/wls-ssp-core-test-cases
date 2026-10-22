@@ -1,0 +1,24 @@
+{
+  "event" : "01M5GP7S8FNX52V2WT860FBZWE",
+  "op" : "delete",
+  "from" : [ "d7c263a4-7354-5952-a3a5-bbfee13b46f3" ],
+  "to" : [ ],
+  "restores" : null,
+  "after" : [ ],
+  "labels" : {
+    "d7c263a4-7354-5952-a3a5-bbfee13b46f3" : [ "TC-0216" ]
+  },
+  "steps" : {
+    "d7c263a4-7354-5952-a3a5-bbfee13b46f3" : [ "s-TYHVVHAZ", "s-PKSKJVB0" ]
+  },
+  "stepRemap" : { },
+  "resources" : {
+    "resources/d7c263a4-7354-5952-a3a5-bbfee13b46f3/bulk-import.csv" : ""
+  },
+  "origin" : {
+    "type" : "core",
+    "repo" : "github-1429134234"
+  },
+  "at" : "2026-10-22T02:14:59.087827512Z",
+  "by" : "github:579969"
+}
