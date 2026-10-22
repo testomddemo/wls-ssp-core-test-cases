@@ -1,0 +1,26 @@
+{
+  "event" : "01M5GP74VZMTQX1HKSB2656AH7",
+  "op" : "split",
+  "from" : [ "4d4ce638-9f89-5497-8357-f2748cc2ff73" ],
+  "to" : [ "4d4ce638-9f89-5497-8357-f2748cc2ff73", "42f69917-539d-4c94-95bd-bb6681e582b0" ],
+  "restores" : null,
+  "after" : [ ],
+  "labels" : {
+    "4d4ce638-9f89-5497-8357-f2748cc2ff73" : [ "TC-0212" ],
+    "42f69917-539d-4c94-95bd-bb6681e582b0" : [ "TC-0503" ]
+  },
+  "steps" : {
+    "4d4ce638-9f89-5497-8357-f2748cc2ff73" : [ "s-M0SHGD2B", "s-V1HWF46A", "s-ZJ8Z147G" ],
+    "42f69917-539d-4c94-95bd-bb6681e582b0" : [ "s-KZKMYTM9", "s-GC1Z1N90", "s-6QE8KN5B" ]
+  },
+  "stepRemap" : { },
+  "resources" : {
+    "4d4ce638-9f89-5497-8357-f2748cc2ff73/preview-sample.json" : "42f69917-539d-4c94-95bd-bb6681e582b0/preview-sample.json"
+  },
+  "origin" : {
+    "type" : "core",
+    "repo" : "github-1429134234"
+  },
+  "at" : "2026-10-22T02:14:38.208309335Z",
+  "by" : "github:579969"
+}
