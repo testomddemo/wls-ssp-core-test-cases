@@ -1,0 +1,24 @@
+{
+  "event" : "01M7MNTK71GBWNW75TZZTN965P",
+  "op" : "delete",
+  "from" : [ "84a99ecf-061a-53ad-8f16-876b476b67e8" ],
+  "to" : [ ],
+  "restores" : null,
+  "after" : [ ],
+  "labels" : {
+    "84a99ecf-061a-53ad-8f16-876b476b67e8" : [ "TC-0311" ]
+  },
+  "steps" : {
+    "84a99ecf-061a-53ad-8f16-876b476b67e8" : [ "s-231M9JAC", "s-PVX147HZ" ]
+  },
+  "stepRemap" : { },
+  "resources" : {
+    "resources/84a99ecf-061a-53ad-8f16-876b476b67e8/export-schema.json" : ""
+  },
+  "origin" : {
+    "repo" : "github-1429134234",
+    "type" : "core"
+  },
+  "at" : "2026-11-17T11:56:08.289796628Z",
+  "by" : "github:579969"
+}

@@ -1,0 +1,13 @@
+{
+  "decision" : "applied",
+  "kept" : [ ],
+  "declined" : [ ],
+  "decisionId" : "01M7MNSD578CQJ4RS19TB1PKYN",
+  "seen" : { },
+  "event" : "01M7MNSD56QBTJ54609C7WG9DD",
+  "via" : {
+    "kind" : "created"
+  },
+  "at" : "2026-11-17T11:55:29.318930888Z",
+  "by" : "github:579969"
+}
